@@ -1,0 +1,15 @@
+.box {
+  background-color: #34282b;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#formHandler {
+  height: 10%;
+}
+
+#dashboard {
+  height: 90%;
+  width: 100%;
+}
